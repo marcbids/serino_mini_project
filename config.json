@@ -1,0 +1,8 @@
+{
+  "host": "localhost",
+  "user": "root",
+  "password": "password",
+  "database": "kitra",
+  "connectionLimit": 10,
+  "port": "3306"
+}
