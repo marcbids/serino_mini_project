@@ -10,6 +10,11 @@ Created 2 endpoints to find treasure boxes near the given longitude and latitude
 * Express
 * MySql
 
+### Technologies used
+* NodeJs
+* ExpressJs
+* MySql Workbench
+
 ## Setting up Database
 1. Create a database named *kitra*
 2. import tables to datase from folder `./database`
