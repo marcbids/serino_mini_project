@@ -26,8 +26,6 @@ npm install
 npm install nodemon express mysql
 ```
 3. Update the `./config.json` with your sql credentials
-
-4. Run app with `npm start`
 ```
 {
   "host": "localhost",
@@ -38,6 +36,9 @@ npm install nodemon express mysql
   "port": "3306"
 }
 ```
+
+4. Run app with `npm start`
+
 5. Open postman and submit a POST request with the link [localhost:3000/api/kitra/treasure](localhost:3000/api/kitra/treasure) and a sample body of 
 ```
 #   note : Distance only accepts 1km or 10km 
